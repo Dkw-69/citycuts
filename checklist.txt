@@ -1,0 +1,5 @@
+FINAL
+1.  improve seo area *done*
+2.  write contact PHP *done*
+3.  add production pricing & gallery *done*
+4.  disable error debug
